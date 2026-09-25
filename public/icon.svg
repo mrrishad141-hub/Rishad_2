@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#000000"/>
+  <rect x="16" y="16" width="480" height="480" fill="none" stroke="#22c55e" stroke-width="2" opacity="0.3"/>
+  <!-- Corner brackets -->
+  <path d="M 32 64 L 32 32 L 64 32" fill="none" stroke="#22c55e" stroke-width="4"/>
+  <path d="M 480 32 L 448 32 M 480 32 L 480 64" fill="none" stroke="#22c55e" stroke-width="4"/>
+  <path d="M 32 448 L 32 480 L 64 480" fill="none" stroke="#22c55e" stroke-width="4"/>
+  <path d="M 480 448 L 480 480 L 448 480" fill="none" stroke="#22c55e" stroke-width="4"/>
+  <!-- Shield icon -->
+  <path d="M 256 96 L 160 144 L 160 256 Q 160 336 256 384 Q 352 336 352 256 L 352 144 Z" fill="none" stroke="#22c55e" stroke-width="6"/>
+  <path d="M 256 96 L 160 144 L 160 256 Q 160 336 256 384 Q 352 336 352 256 L 352 144 Z" fill="#22c55e" opacity="0.1"/>
+  <!-- Lock body -->
+  <rect x="224" y="232" width="64" height="56" rx="4" fill="none" stroke="#22c55e" stroke-width="5"/>
+  <rect x="224" y="232" width="64" height="56" rx="4" fill="#22c55e" opacity="0.15"/>
+  <!-- Lock shackle -->
+  <path d="M 236 232 L 236 212 Q 236 196 256 196 Q 276 196 276 212 L 276 232" fill="none" stroke="#22c55e" stroke-width="5"/>
+  <!-- Lock keyhole -->
+  <circle cx="256" cy="258" r="6" fill="#22c55e"/>
+  <rect x="253" y="260" width="6" height="14" fill="#22c55e"/>
+  <!-- Scan lines -->
+  <rect x="0" y="100" width="512" height="1" fill="#22c55e" opacity="0.1"/>
+  <rect x="0" y="200" width="512" height="1" fill="#22c55e" opacity="0.1"/>
+  <rect x="0" y="300" width="512" height="1" fill="#22c55e" opacity="0.1"/>
+  <rect x="0" y="400" width="512" height="1" fill="#22c55e" opacity="0.1"/>
+  <!-- Text -->
+  <text x="256" y="430" font-family="monospace" font-size="24" font-weight="bold" fill="#22c55e" text-anchor="middle" letter-spacing="4" opacity="0.6">TACTICAL</text>
+</svg>
